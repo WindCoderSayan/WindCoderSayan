@@ -1,6 +1,6 @@
 
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV--5QlI17JIxa8XsbkwO0_-UJ-gZjYbO9bA&usqp=CAU)]
-<h1 align="center">Hi 👋, I'm WindCoderSayan</h1>
+<h1 align="left">Hi 👋, I'm WindCoderSayan</h1>
 <h3 align="center">I am a passionate MERN developer.i'm always like to learn and explore more new things</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
 
